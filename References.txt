@@ -1,0 +1,7 @@
+References
+
+Onde parei
+https://docs.djangoproject.com/en/1.10/intro/tutorial02/
+
+Explicação do DRy
+https://docs.djangoproject.com/en/1.10/misc/design-philosophies/#dry
